@@ -727,7 +727,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 16,
-    paddingTop: 24,
+    paddingTop: 50,
     paddingBottom: 12,
   },
   headerRow: {
@@ -740,7 +740,7 @@ const styles = StyleSheet.create({
     flexDirection: 'column',
   },
   title: {
-    fontSize: 28,
+    fontSize: 38,
     fontWeight: '700',
   },
   subtitle: {
