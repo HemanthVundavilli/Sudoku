@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "sudoku-game",
-    "slug": "sudoku-game",
+    "slug": "sudoku",                       // ← change this
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
